@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @safal219
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @safal bharadwaj
+- 👀 I’m interested in web deveploment
+- 🌱 I’m currently learning many new things
+- 💞️ I’m looking to collaborate on google
+- 
 
 <!---
 safal219/safal219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
